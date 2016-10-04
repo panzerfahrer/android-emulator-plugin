@@ -1,5 +1,5 @@
 rootProject.name = 'android-emulator-plugin'
 
 include ':plugin'
-include ':sample'
+//include ':sample'
 
